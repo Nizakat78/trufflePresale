@@ -1,6 +1,6 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
-const privateKey = '78217cd02474ee4c5b9e9b637898520e6cb4be53beb2b4729c1832fe1c2a504d';
+const privateKey = 'Private key here';
 const localSepoliaNodeUrl = 'http://localhost:8545'; // URL of your local Sepolia node
 
 module.exports = {
